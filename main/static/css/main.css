@@ -1,0 +1,19 @@
+/*default version*/
+@font-face {
+	font-family: 'Franklin';
+	src: url('/static/fonts/Franklin Gothic Heavy Italic.ttf')  format('truetype');
+}
+
+body{
+    background:#fff;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+
+
+
+.container{
+    margin-top:50px;
+
+}
